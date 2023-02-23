@@ -112,7 +112,7 @@ body {
     animation-delay: 0.5s;
 }
 
-#container netflixintro[letter=E] {
+/* #container netflixintro[letter=E] {
     transform-origin: 30% center;
 }
 
@@ -422,7 +422,7 @@ body {
     animation-duration: 2s;
     animation-fill-mode: forwards;
     animation-delay: 0.5s;
-}
+} */
 
 #container netflixintro [class*=helper-] {
     position: absolute;
